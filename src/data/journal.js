@@ -1,0 +1,38 @@
+export const journal = [
+  {
+    slug: 'warm-minimalist-homes-gurgaon',
+    title: 'Designing Warm Minimalist Homes in Gurgaon',
+    category: 'Residential',
+    date: 'Nov 2026',
+    readTime: '6 min read',
+    excerpt: 'How warm minimalism balances architectural clarity with the comfort of everyday life in Gurugram homes.',
+    image: '/images/journal-1.jpg',
+  },
+  {
+    slug: 'choosing-stone-luxury-interior',
+    title: 'Choosing Stone for a Luxury Interior',
+    category: 'Materials',
+    date: 'Oct 2026',
+    readTime: '5 min read',
+    excerpt: 'Travertine, marble and granite — how to choose the right stone for a luxury interior in Gurugram.',
+    image: '/images/journal-2.jpg',
+  },
+  {
+    slug: 'what-makes-a-space-timeless',
+    title: 'What Makes a Space Feel Timeless?',
+    category: 'Design',
+    date: 'Sep 2026',
+    readTime: '7 min read',
+    excerpt: 'The principles of proportion, material and light that make a space feel timeless rather than trendy.',
+    image: '/images/journal-3.jpg',
+  },
+  {
+    slug: 'designing-around-natural-light',
+    title: 'Designing Around Natural Light',
+    category: 'Light',
+    date: 'Aug 2026',
+    readTime: '5 min read',
+    excerpt: 'How natural light shapes atmosphere and how to design around it in Gurugram homes.',
+    image: '/images/journal-4.jpg',
+  },
+]
